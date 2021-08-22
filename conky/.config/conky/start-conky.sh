@@ -1,0 +1,3 @@
+conky -c $HOME/.config/conky/conky.conf &
+
+

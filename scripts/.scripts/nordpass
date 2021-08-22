@@ -1,0 +1,3 @@
+#!/bin/bash
+
+dbus-launch --autolaunch=$(cat /var/lib/dbus/machine-id) flatpak run com.nordpass.NordPass
